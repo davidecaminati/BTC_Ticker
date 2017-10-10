@@ -26,7 +26,7 @@ https://bittrex.com/api/v1.1/public/getmarketsummary?market=usdt-btc
 wifi connection
 	nmcli device wifi list
 
-	sudo nmcli device wifi connect 'NETGEAR2' password '123456789' ifname wlan0
+	sudo nmcli device wifi connect 'SSID' password 'PASSWORD' ifname wlan0
 	
 update OS
 	sudo apt-get update
