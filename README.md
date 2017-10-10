@@ -17,11 +17,11 @@ Simple ticker for BTC on C.H.I.P.
 	cd ..
   
   --clone repo
-  git clone https://github.com/davidecaminati/BTC_Ticker.git
+  	git clone https://github.com/davidecaminati/BTC_Ticker.git
   
   --launch
-  cd BTC_Ticker
-  sudo python chip_btc_market.py
+  	cd BTC_Ticker
+  	sudo python chip_btc_market.py
   
   --wait btc to the moon
   
